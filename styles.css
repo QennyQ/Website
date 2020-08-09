@@ -1,0 +1,22 @@
+
+
+.smalltext {
+	font-size: 8px;
+}
+
+
+
+
+p {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+
+body {
+  background-image: url("paper.jpg");
+}
+
+p.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
